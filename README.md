@@ -5,7 +5,7 @@ Small package based on Naive Bayes classifier to classify messages as spam or ha
 # Install
 
 ```
-npm install spam-detection
+npm install spam-detection-js
 
 ```
 
